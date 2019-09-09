@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Internet ohjelmoinnin harjoitustyö</title>
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
